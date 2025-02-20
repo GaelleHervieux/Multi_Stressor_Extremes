@@ -9,7 +9,7 @@ dirdata=''
 ## ###############################
 ##  OPEN DATASETS
 ## ###############################
-DS=xr.open_dataset(f'{dirdata}/Diags_VerticalProfile_2005-05-04_235.0_43.25.nc')
+DS=xr.open_dataset(f'{dirdata}/Figure2.nc')
 Tm=DS['Tm']
 Cm=DS['chlm']
 Om=DS['o2m']
