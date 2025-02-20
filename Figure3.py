@@ -10,7 +10,7 @@ dirdata=''
 ## ##############################
 ##  OPEN DATASETS
 ## ##############################
-DS=xr.open_dataset(f'{dirdata}/Diags_timeseries_LME075km.nc')
+DS=xr.open_dataset(f'{dirdata}/Figure3.nc')
 
 SST=DS['SST']
 SSTclimE=DS['SST'].groupby('time.dayofyear').mean('time').sel(dayofyear=DS['SST'].time.dt.dayofyear)
