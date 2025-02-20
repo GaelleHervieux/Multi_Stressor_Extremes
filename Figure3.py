@@ -39,23 +39,22 @@ year=DS.indexes['time'].to_datetimeindex()
 # PLOTS
 # ###############################
 
-fig, axs = plt.subplots(nrows=5,ncols=1,figsize=(12,8),num=2,clear=True)
-fig.subplots_adjust(hspace=.05,wspace=.2,top=0.8)
+fig, axs = plt.subplots(nrows=4,ncols=1)
 #
 axs[0].plot(year,SST,color='red',linewidth=.8,label='SST')
 axs[0].plot(year,SSTclimE,color='red',linestyle='-.',linewidth=.45,label='Seasonal Cycle')
 axs[0].plot(year,SST90thE, color='red',linestyle='--',linewidth=.45,label='90th percentile of SST')
 #
 axs[1].plot(year,chl,color='green',linewidth=.75,label='chlIntV : chl (0-100m)')
-axs[0].plot(year,chlclimE,color='green',linestyle='-.',linewidth=.45,label='Seasonal Cycle')
+axs[1].plot(year,chlclimE,color='green',linestyle='-.',linewidth=.45,label='Seasonal Cycle')
 axs[1].plot(year,chl10thE, color='green',linestyle='--',linewidth=.45,label='10th percentile of chlIntV')
 #
 axs[2].plot(year,-o2,color='blue',linewidth=.75,label='Hypoxic Layer')
-axs[0].plot(year,-o2climE,color='blue',linestyle='-.',linewidth=.45,label='Seasonal Cycle')
+axs[2].plot(year,-o2climE,color='blue',linestyle='-.',linewidth=.45,label='Seasonal Cycle')
 axs[2].plot(year,-o210thE, color='blue',linestyle='--',linewidth=.45,label='10th percentile of HL')
 #
 axs[3].plot(year,T,color='black',linewidth=.75,label='Bottom Temp')
-axs[0].plot(year,TclimE,color='black',linestyle='-.',linewidth=.45,label='Seasonal Cycle')
+axs[3].plot(year,TclimE,color='black',linestyle='-.',linewidth=.45,label='Seasonal Cycle')
 axs[3].plot(year,T90thE,color='black',linestyle='-.',linewidth=.45,label='90th percentile of botT')
 #
 outfile=f'{dirout}/Figure3.png'
