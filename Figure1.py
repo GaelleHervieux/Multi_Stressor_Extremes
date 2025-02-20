@@ -7,7 +7,7 @@ dirout=''
 dirdata=''
 
 #### Read Mask
-DSmask=xr.open_dataset('/data/ghervieux/GLORYS_BGC/mask_GLORYSBGC_Newzones.nc')
+DSmask=xr.open_dataset('/data/ghervieux/GLORYS_BGC/Figure1.nc')
 maskA=DSmask['mask_zoneA']
 maskB=DSmask['mask_zoneB']
 maskC=DSmask['mask_zoneC']
