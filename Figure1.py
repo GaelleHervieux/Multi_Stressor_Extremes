@@ -1,9 +1,5 @@
 import xarray as xr
-import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.colors import ListedColormap,LinearSegmentedColormap
-import matplotlib.colors as colors
-from matplotlib import cm
 import cartopy
 import cartopy.crs as ccrs
 
