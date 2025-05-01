@@ -1,11 +1,11 @@
 # Created by Gaelle Hervieux
 #
-# Generate  Maps of single extreme characteristics over the study period (1996–2019) figure
+# Generate  Maps of single extreme characteristics over the study period (1996–2019) figure.
 
-# Figure 3: Maps of single extreme characteristics over the study period (1996–2019).
-#  Frequency (top row), mean intensity (middle row; standardized and expressed in sigma 
-# units (𝛹)), and mean duration (bottom row; days) of SMHWs (left column), LCXs (middle column), 
-# and SHXs (right column). The black contour marks the boundary of the CCLME. 
+# Figure 3: Maps of single extreme characteristics over the study period (1996–2019). Frequency 
+# (top row), mean intensity (middle row; mean z-score (𝑍), expressed in sigma units), and mean 
+# duration (bottom row; days) of SMHWs (left column), LCXs (middle column), and SHXs (right column). 
+# The black contour marks the boundary of the CCLME. 
 
 import xarray as xr
 import numpy as np
