@@ -2,12 +2,12 @@
 #
 # Generate figure S1.
 
-# S1 Figure (a-b) Time series of daily CCLME-averaged SST (solid contour) and 90th percentile 659
-# (dotted) from (b) GLORYS-BGC (black) and (c) OISSTv2 (red) from 1996 to 2019. Surface 660
-# MHWs (SMHWs) in (a) and (b) are indicated by under-the-curve and vertical gray shading; any 661
-# simulated SMHWs that were not also observed (‘missed’) are indicated by red vertical shading 662
-# in (a). The POD of SMHWs identified from CCLME-average SSTs is 82%. (c) Probability (%; 663
-# color) of SMHW detection (POD) at each GLORYS-BGC grid point within the CCLME over 664
+# S1 Figure (a-b) Time series of daily CCLME-averaged SST (solid contour) and 90th percentile 
+# (dotted) from (b) GLORYS-BGC (black) and (c) OISSTv2 (red) from 1996 to 2019. Surface 
+# MHWs (SMHWs) in (a) and (b) are indicated by under-the-curve and vertical gray shading; any 
+# simulated SMHWs that were not also observed (‘missed’) are indicated by red vertical shading 
+# in (a). The POD of SMHWs identified from CCLME-average SSTs is 82%. (c) Probability (%; 
+# color) of SMHW detection (POD) at each GLORYS-BGC grid point within the CCLME over 
 # the study period.
  
 
