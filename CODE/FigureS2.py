@@ -2,14 +2,14 @@
 #
 # Generate figure S2.
 
-# S2 Figure Scatter plots of observed (red) and simulated (black) seasonal standardized anomalies 666
-# (filled circles) of SST and HLD (top row), SST and 0–100 m integrated chlorophyll 667
-# concentration (R CHL; middle row), and HLD and R CHL (bottom row) from stations along 6 668
-# CalCOFI lines (map inset; stations overlain on grayscale bathymetry from GLORYS-BGC). 669
-# Also shown are regression lines with corresponding regression coefficients, r, and 95% 670
-# confidence ellipses. Properties were first averaged over the nearshore (0–75 km from the coast; 671
+# S2 Figure Scatter plots of observed (red) and simulated (black) seasonal standardized anomalies
+# (filled circles) of SST and HLD (top row), SST and 0–100 m integrated chlorophyll 
+# concentration (∫CHL; middle row), and HLD and ∫CHL (bottom row) from stations along 6 
+# CalCOFI lines (map inset; stations overlain on grayscale bathymetry from GLORYS-BGC). 
+# Also shown are regression lines with corresponding regression coefficients, r, and 95% 
+# confidence ellipses. Properties were first averaged over the nearshore (0–75 km from the coast; 
 # gold circles on map; right column of scatter plots) and offshore (75–300 km; teal circles on map; 
-# left column of scatter plots) coastal bands of the CCLME. Also shown with scatter plots are 673
+# left column of scatter plots) coastal bands of the CCLME. Also shown with scatter plots are 
 # regression lines with corresponding regression coefficients, r, and 95% confidence ellipses. 
  
 
