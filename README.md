@@ -24,8 +24,8 @@ multi-stressor events (temperature, chlorophyll, and oxygen) in the California C
 Marine Ecosystem (CCLME) from 1996–2019. We highlight key spatiotemporal patterns of
 compound physical and biogeochemical extremes in the context of large-scale climate
 variability, particularly ENSO. Marine heatwaves and low chlorophyll extremes are generally
-associated with strong El Ni ˜no events, while shallow hypoxia extremes are generally associated
-with La Ni˜na events. Marine heatwave-low chlorophyll extremes are the most common
+associated with strong El Ni&ntilde;o events, while shallow hypoxia extremes are generally associated
+with La Ni&ntilde;a events. Marine heatwave-low chlorophyll extremes are the most common
 compound extreme in nearshore waters, while triple extremes are relatively rare, as conditions
 favoring warm and low productivity anomalies tend to also favor high oxygen anomalies.
 Results from this study advance our understanding of where and when multi-stressor events tend
