@@ -1,7 +1,7 @@
 # Characterizing compound physical and biogeochemical extremes in the California Current Large  Marine Ecosystem.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15313482.svg)](https://doi.org/10.5281/zenodo.15313482)
 
-### Natalie M. Freeman<sup>1</sup>, Ga&euml;lle Hervieux<sup>1,2</sup>, Michael A. Alexander<sup>1</sup>, Michael G. Jacox<sup>1,3,4</sup>, Dillon J. Amaya<sup>1</sup>,James D. Scott<sup>1,2</sup>, and Antonietta Capotondi<sup>1,2</sup>.
+### Natalie M. Freeman<sup>1</sup>, Ga&euml;lle Hervieux<sup>1,2</sup>, Michael A. Alexander<sup>1</sup>, Michael G. Jacox<sup>1,3,4</sup>, Dillon J. Amaya<sup>1</sup>, James D. Scott<sup>1,2</sup>, and Antonietta Capotondi<sup>1,2</sup>.
 
 
 <sup>1</sup> NOAA Physical Sciences Laboratory, Boulder, CO, USA. </br>
